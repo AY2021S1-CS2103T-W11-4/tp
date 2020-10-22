@@ -132,7 +132,7 @@ Examples:
 :bulb: <span style="font-weight:bold">Tips:</span>
 
 * A patient can have any number of allergies (including 0).
-* The color tag can be any standard HTML color name, such as <span style="color:red;font-weight:bold">red</span>, <span style="color:green;font-weight:bold">red</span> or <span style="color:red;font-weight:bold">orange</span>.
+* The color tag can be any standard HTML color name, such as red, green or orange.
 * Check out <a href="https://www.w3schools.com/colors/colors_names.asp">this link</a> for an extensive list.
 
 </div>

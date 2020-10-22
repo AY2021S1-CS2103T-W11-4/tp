@@ -187,7 +187,7 @@ Format: `edit INDEX [n/NAME] [p/PHONE_NUMBER] [i/NRIC] [a/ADDRESS] [e/EMAIL] [s/
 Examples:
 *  `edit 1 p/91234567 e/johndoe@example.com` Edits the phone number and email address of the 1st patient to be `91234567` and `johndoe@example.com` respectively.
 *  `edit 2 n/Betsy Crower g/` Edits the name of the 2nd patient to be `Betsy Crower` and clears all existing allergies.
-*  `edit 3 ct/red` Clears the existing color tag and edits the color tag of the 3rd patient to be <span style="color:red;font-weight:bold">`red`</span>.
+*  `edit 3 ct/red` Clears the existing color tag and edits the color tag of the 3rd patient to be `red`.
 
 ![example of color coded patient](images/colorTagExample.png)
 
